@@ -1,3 +1,4 @@
+
 Este no es el típico plugin "bloated" de la librería de WordPress. Es una herramienta de ejecución quirúrgica diseñada para SEOs de trinchera que priorizan el WPO y el control total sobre la arquitectura de enlaces.
 
 Qué hace (y por qué es mejor):
